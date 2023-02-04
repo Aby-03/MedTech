@@ -17,10 +17,10 @@ Long Description about project. This project do that. This project is awesome...
 
 ## Team members
 
-1. Aby Joseph github.com/Aby-03
+1. Aby Joseph https://github.com/Aby-03
 2. Santhosh James C https://github.com/santhoshjamesc
 3. Akash T Saji https://github.com/Ash7104
-4. Ebin Benny 
+4. Ebin Benny https://githb.com/ebinzzz
 
 
 <!-- ## Link to product walkthrough
